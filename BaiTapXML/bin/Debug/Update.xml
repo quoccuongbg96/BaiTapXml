@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThongTinTuong>
+  <ChiTiet Phe="Hán">
+    <Ten>Lưu Bị</Ten>
+    <SoSao>4*</SoSao>
+    <BinhChung>Bộ Binh</BinhChung>
+    <TamDanh>3</TamDanh>
+    <Cost>2</Cost>
+    <Công>75</Công>
+    <Thủ>81</Thủ>
+    <Mưu>72</Mưu>
+    <Tốc>40</Tốc>
+    <Phá>100</Phá>
+    <BasicSkill TênCP="23">23</BasicSkill>
+    <Skillsplitted TênCP="23">1209</Skillsplitted>
+    <Study TênCP="12">2</Study>
+  </ChiTiet>
+  <ChiTiet Phe="Hán">
+    <Ten>Tào Tháo</Ten>
+    <SoSao>4*</SoSao>
+    <BinhChung>Kị Binh</BinhChung>
+    <TamDanh>2</TamDanh>
+    <Cost>2.5</Cost>
+    <Công>200</Công>
+    <Thủ>200</Thủ>
+    <Mưu>122</Mưu>
+    <Phá>90</Phá>
+    <Tốc>90</Tốc>
+  </ChiTiet>
+</ThongTinTuong>

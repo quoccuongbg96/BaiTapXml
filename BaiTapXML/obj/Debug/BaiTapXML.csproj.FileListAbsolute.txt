@@ -1,0 +1,16 @@
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\bin\Debug\BaiTapXML.exe.config
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\bin\Debug\BaiTapXML.exe
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\bin\Debug\BaiTapXML.pdb
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\obj\Debug\BaiTapXML.csprojResolveAssemblyReference.cache
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\obj\Debug\BaiTapXML.Form1.resources
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\obj\Debug\BaiTapXML.Properties.Resources.resources
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\obj\Debug\BaiTapXML.csproj.GenerateResource.Cache
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\obj\Debug\BaiTapXML.exe
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\obj\Debug\BaiTapXML.pdb
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\obj\Debug\BaiTapXML.frmThemCot.resources
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\obj\Debug\BaiTapXML.frmChienPhap.resources
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\obj\Debug\BaiTapXML.frmSoSanh.resources
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\obj\Debug\BaiTapXML.frmChienPhap_Themmoi.resources
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\obj\Debug\BaiTapXML.frmChienPhap_Suamoi.resources
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\bin\Debug\ShowXML.exe
+C:\Users\hdlaptop\Desktop\BaiTapXML\BaiTapXML\bin\Debug\ShowXML.pdb

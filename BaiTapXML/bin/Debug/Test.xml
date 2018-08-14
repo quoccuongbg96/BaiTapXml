@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ChiTiet>
+  <Tuong Phe="n">
+    <Ten>Tào Tháo</Ten>
+    <SoSao>5*</SoSao>
+  	<Công>12</Công>
+	<Thủ>12</Thủ>
+<BasicSkill>4</BasicSkill>
+	<Skillsplitted>56</Skillsplitted>
+	<Study>6</Study></Tuong>
+</ChiTiet>
